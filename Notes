@@ -19,3 +19,11 @@ Small collections of life like phenomena.
 self play 
 
 keras
+
+--
+  How it works: "Codistillation trains n copies of a model in parallel by adding a term to the loss function of the ith model to match the average prediction of the other models." This approach is superior to distributed stochastic gradient descent in terms of accuracy and training time and is also not too bad from a reproducability perspective.
+  
+  Thus: to have spare time invested in other areas makes for a good problem solver.
+  
+ zoom in and out.
+ 
